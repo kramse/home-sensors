@@ -1,0 +1,14 @@
+Your NodeMCU custom build finished successfully. You may now download the firmware:
+- float: https://nodemcu-build.com/builds/nodemcu-release-19-modules-2020-10-20-19-03-21-float.bin
+- integer: https://nodemcu-build.com/builds/nodemcu-release-19-modules-2020-10-20-19-03-21-integer.bin
+
+This was built against the release branch and includes the following modules: bit, file, gpio, gpio_pulse, i2c, mqtt, net, node, ow, pwm, rotary, rtcmem, rtctime, sntp, tmr, uart, wifi, ws2812, tls.
+The files are guaranteed to be available for download for 24h.
+
+I invite you to try my standalone desktop tool to flash firmware binaries: https://github.com/marcelstoer/nodemcu-pyflasher
+
+Learn how to flash the firmware: https://nodemcu.readthedocs.io/en/release/en/flash/. If you're upgrading from a previous version you should carefully study the "Upgrading Firmware" instructions on that page.
+
+Please help keep this service alive: http://nodemcu-build.com/faq.php#support
+
+
