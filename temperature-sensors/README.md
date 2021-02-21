@@ -89,3 +89,11 @@ This will allow you to see the device present itself using an ID, when sending M
 
 
 ## Reboot and check settings
+
+The system pauses during boot.
+
+Check
+
+* Wi-Fi connects?
+
+* System starts the temp sensor readings?
