@@ -34,6 +34,12 @@ Leaving...
 Hard resetting via RTS pin...
 ```
 
+## Modify code
+
+Copy the DEFAULT.setup.lua to setup.lua
+
+Edit/add your Wi-Fi and MQTT server in setup.lua
+
 ## Copy code
 Copy the Lua files onto the device
 
