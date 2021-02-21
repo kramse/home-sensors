@@ -13,8 +13,8 @@
 --   =wifi.sta.getmac()
 
 macs = {
-	"48:3f:da:0c:96:e2";	--  1 sovevaerelset
-				--	Breadboard temp sensor
+	"48:3f:da:0c:76:e7";	-- Model device
+				--	Henrik office temp sensor
 	"48:3f:da:0c:73:3b";	--  2 udsigtsstuen
 				--	Breadboard temp sensor
 	"48:3f:da:0c:78:35";	--  3 badevaerelset
