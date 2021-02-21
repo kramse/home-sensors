@@ -41,7 +41,8 @@ Copy the DEFAULT.setup.lua to setup.lua
 Edit/add your Wi-Fi and MQTT server in setup.lua
 
 ## Copy code
-Copy the Lua files onto the device
+Copy the Lua files onto the device, I used ESPlorer
+https://esp8266.ru/esplorer/
 
 The system I use is from Flemming Jacobsen, Batmule. He shared his files, which I updated and changed a bit. Errors are probably mine.
 
